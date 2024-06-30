@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\ds3\bin\Debug\net7.0\ds3.exe
+C:\Users\Aluno\Desktop\ds3\bin\Debug\net7.0\ds3.deps.json
+C:\Users\Aluno\Desktop\ds3\bin\Debug\net7.0\ds3.runtimeconfig.json
+C:\Users\Aluno\Desktop\ds3\bin\Debug\net7.0\ds3.dll
+C:\Users\Aluno\Desktop\ds3\bin\Debug\net7.0\ds3.pdb
+C:\Users\Aluno\Desktop\ds3\obj\Debug\net7.0\ds3.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ds3\obj\Debug\net7.0\ds3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\ds3\obj\Debug\net7.0\ds3.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\ds3\obj\Debug\net7.0\ds3.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\ds3\obj\Debug\net7.0\ds3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ds3\obj\Debug\net7.0\ds3.dll
+C:\Users\Aluno\Desktop\ds3\obj\Debug\net7.0\refint\ds3.dll
+C:\Users\Aluno\Desktop\ds3\obj\Debug\net7.0\ds3.pdb
+C:\Users\Aluno\Desktop\ds3\obj\Debug\net7.0\ds3.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\ds3\obj\Debug\net7.0\ref\ds3.dll
